@@ -1,4 +1,4 @@
-n = 5  # Number of rows for the upper part
+n = 5  
 
 # Upper part (Pyramid shape)
 for i in 1..n
