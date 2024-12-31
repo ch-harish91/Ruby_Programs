@@ -1,10 +1,9 @@
 
-# Input number directly
-number = 153  # Replace with the number you want to check
+number = 153 
 original = number
 sum = 0
 
-# Count the number of digits
+
 digits = number.to_s.length
 
 # Calculate the sum of each digit raised to the power of the number of digits
