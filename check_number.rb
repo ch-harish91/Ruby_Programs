@@ -1,4 +1,4 @@
-# Directly assign the number here
+
 number = 10  # Example number, you can change it
 
 # Check if the number is positive, negative, or zero
